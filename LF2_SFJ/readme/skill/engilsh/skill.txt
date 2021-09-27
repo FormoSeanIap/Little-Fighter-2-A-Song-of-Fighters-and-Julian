@@ -1,0 +1,215 @@
+D=defend, J=jump, A=attack, H=dash, C=catch, R=run
+
+
+Deep
+
+1. Crescent Sweep: All Deep's attacks are group attack with blast
+2. Fervor of Battle: When Deep's HP is lower than half, some of his skill will be strenthened and
+                     can use his ultimate.
+
+3. D>A(...)                Energy Blast               5  +1hp
+4. DvA(...)                Strike                     10 +3hp
+5. J+A/D^J+A/H+A           Whirlwind Attack           5
+   ¡÷A                     Leap Attack                10 +3hp
+6. D>J                     Dashing Strafe             20 +5hp
+
+7. (hp lower than half)    Nightmare Blast            40
+   Energy Blast+A+A     (ultmiate)
+   Strike+A
+   Leap Attack+A
+
+6. (hp lower than half)
+   Leap Attack is strengthened
+   
+
+John
+
+1. Magic Fountain: John's MP regeneration is faster than others.
+2. Dark Matter: All John's attack abilities create magic circle to chant.
+
+3. A                       Arecanopulsea             15
+4. D>A                     Energy Blast              20
+5. D>J                     Energy Shield             20
+6. D^A                     Energy Disk               30
+7. DvJ                     Holy Bless                45
+8. D^J (ultimate)          Devastating Illusion      80 +15hp
+
+
+Henry
+1. Little Play: After using an ablility, Henry will play his flute.
+2. Ambush: Henry set traps in fight. Many arrows com from the sky when the trap is triggered.
+
+3. A(...)                  Arrow                     3
+4. D>A                     Dragon Palm               15
+5. D>J / DvA               Citicl Shot               25
+6. DJA                     Multiple Shot             15
+7. D^J                     Sonata of the Death       50
+8. D>JA / DvAA (ultimate)  Storm Shot                60 +10hp
+
+
+Rudolf
+1. Shadow Walk: Rudolf will sneak into shadow if he is being attacked.
+
+2. A(...)                  Razor Shurikan            1.6(...)
+3. D>A                     Multiple Stars            20
+4. D>J                     Ghost Move                20
+   ¡÷D>J (ultimate)        Last Whisper              50 +6hp
+5. D^J                     Shadow Dance              40
+6. DvJ                     Living Shadow             40
+7. C+DJA                   Transform                 60
+8. C+J (ultimate)          Last Whisper              50 +6hp
+
+
+Louis
+1. Phoenix Armor: The armor Louis wears protect him. Enemies shoud destroy the armor before injure him.
+2. Thunder Power: Louis's armor has the power of thunder.
+
+3. R+A / D>J               Thunder Punch             5
+4. H+A                     Thunder Punch             5
+5. D^J                     Catch                     10
+6. C+D(...)                Whirlwind Throw           15
+   ¡÷+A  Wrestle                   
+   ¡÷+J  Fling                     
+7. C+A(...)                Wrestle                   15
+   ¡÷+J  Fling                     
+   ¡÷+D  Whirldwind Throw          
+8. C+J                     Fling                     15 
+   ¡÷+A  Wrestle                
+   ¡÷+D  Whieldwind Throw
+9. D>A                     Phoenix Palm              25
+10. D>AA                   Phoenix's Whisper         50 +6hp
+11. DJA(hp lower than 1/3) Real Phoenix              0
+
+
+Firen
+1. Ground Flame: Firen will produce fire randomly in battles.
+
+2. D>A(+A+A)               Fire Ball                 8+8+15
+3. R+A / D>J               Blaze                     10+3(...)
+   ¡÷+A                    Unstoppable Slaught       35
+4. A                       Inferno                   0+1(...)
+5. D^J / DvJ               Explosion                 40
+6. D^JA/J / DvJA/J (ult)   Pillar of Flame           60 +10hp
+
+
+Freeze
+1. Ice Armor: Freeze has weak armor, and the time he got frozen is very short.
+2. Frozen Soil: Freeze will produce ice column randomly in battles.
+
+3. D>A                     Ice Blast                 20
+4. D>J                     Icicle                    20
+5. A                       Ice Sword                 0
+6. D^J / DvJ               Whirlwind                 40
+7. D>JA                    Ice Mountain              45          (create Ice Circle)
+8. D>JD                    Glacier                   45          (create Ice Circle)
+9. D^JA/J / DvJA/J (ult)   Winter Cage               70 +6hp     (create Ice Circle)
+10. Press D on Ice Circle  Winter Elegy              35
+
+
+Dennis
+1. Strong Body: Dennis's attack damage and attack speed are higher. His dizzy time is shorter, 
+                and some of the damage he takes will be comsumed by his MP.
+
+2. R+A+A                   Shift                      0
+3. D>A(...)                Energy Blast               6(...)
+3. DvA                     Shrafe                     5
+   ¡÷+A (ultimate)         Wind Shrafe                35
+4. D^A                     Chasing Blast              10
+5. D^AD                    Mutiple Blast              15
+6. D>J                     Whirlwind Kick             5(+3...)
+7. D^AA (ultimate)         Wind Blast                 40 +6hp
+8. C+J (ultimate)          Wind Shrafe                35
+
+
+Woody
+1. Martial Art:Woody's attack damage and attack speed are higher. His dizzy time is shorter, and 
+               some of the damage he takes will be comsumed by his MP.
+
+2. D^A                     Flip Kick                   0
+3. D^J                     Teleport(to an enemy)       10
+4. DvJ                     Teleport(to a friend)       10
+5. DvA                     Turning Kick                10
+6. D>A                     Energy Blast                10
+7. D>AA / D>AD             Monstrous Blast             30
+8. D>J                     Tiger Dash                  20
+9. D>JA (ultimate)         Tiger's Rage                20 +6hp(+27...)
+
+
+Davis
+1. Battle Soul:Davis's attack damage and attack speed are higher. His dizzy time is shorter, and 
+               some of the damage he takes will be comsumed by his MP.
+
+2. D>A(...)                Energy Blast                6(...)
+3. DvA                     Shrafe                      5 (strengthened when hp lower than half)
+   ¡÷+A/J   Dragon Kick
+4. D>J / A+A+A             Catch                       10/0
+   (defend attack successfully + A)                    0
+5. D^J / R+A+A/J / D+A/J   Dragon Kick                 5
+   ¡÷ +A (ulitmate)        Dragon's Rage               55
+6. D^A                     Dragon Punch                20
+   ¡÷+A/J   Dragon Kick
+7. C+J (ultimate)          Dragon Shrafe               35
+
+
+Julian
+1. Contempt for the weak: Julian won't be moved or fall down by any attack. All attack he takes
+                          will be lower.
+2. Shadow: Julian leaves shadow randomly in battles. The shadows will explode before disappearing.
+
+3. R+A                     Soul Punch                   0
+4. D>A(...)                Skull Blast                  2(...)
+5. D>J / DvA               Soul Bomb                    25
+6. D^J / DvJ               Ultimate Bang                50
+7. D^A                     Devastating Shock            30
+8. D>JA / DvAA             Death Burst                  50
+9. C+A                     Soul Grasp                   0
+
+
+Firzen
+1. Ice Armor: The armor which is comparable to Louis's one, and can defend ice and fire.
+2. D>J                     Firzen Cannon                2(+1...)
+3. D^A(...)                Overwhelming Disaster        10(...)
+4. D^J                     Polar Volcano                25
+
+
+LouisEX
+1. Real Phoenix: LouisEX's attack damage and attack speed are higher. His dizzy time is shorter, 
+                 and some of the damage he takes will be comsumed by his MP. Also, he can 
+                 conterattack when being attacked.
+
+2. R+A                     Thunder Punch                0
+3. D+A                     Thunder Punch                0
+4. D>A(...)                Phoenix Palm                 20(...)
+5. DvA                     Phoenix Dance                0
+6. D>J                     Phoenix Dash                 20
+7. A+A+A                   Phoenix Shrafe               35
+8. C+J                     Phoenix Strike               45
+
+
+Bat
+1. A Feast for Bat: Bat will release bats and sneak into shadow after a cast.
+
+2. J+A / D+A               Shadow Assault               0
+3. D>A                     Eye Laser                    10
+4. D^J                     Bloody Bats                  25
+5. D>J(+A) / R+A(+A)       Death Hunt                   0(+5)
+6. DvJ                     Nightmare Cry                20
+7. D^A                     Red Slaughter                20
+8. C+J                     Scarlet Trial                0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
